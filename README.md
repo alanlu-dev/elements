@@ -1,3 +1,3 @@
-# @alanlu-dev/monorepo
+# @alanlu-dev/elements
 
-A monorepo starter template.
+A collection of web components.
